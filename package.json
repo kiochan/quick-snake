@@ -1,0 +1,8 @@
+{
+  "name": "quick-snake",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kiochan/quick-snake.git",
+  "author": "Xingchen Sun <sunxingchen@live.com>",
+  "license": "MIT"
+}
